@@ -1,0 +1,18 @@
+{
+  "name": "jobbie",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d public"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://DannyBase.github.io/jobbie",
+  "dependencies": {
+    "gh-pages": "^6.1.1"
+  }
+}
+
+
